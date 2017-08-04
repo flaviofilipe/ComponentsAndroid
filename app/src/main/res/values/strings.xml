@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Components Android</string>
+
+    <string name="navigation_drawer_open">Abrir Menu</string>
+    <string name="navigation_drawer_close">Fechar Menu</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recycler_view">LinearLayout</string>
+    <string name="delete_view">deletar</string>
+    <string name="more_view">Ver Mais</string>
+    <string name="title_activity_grid_layout">GridLayouty</string>
+    <string name="title_activity_staggered_grid_layout">StaggeredGridLayoutActivity</string>
+</resources>
