@@ -8,6 +8,6 @@
     <string name="title_activity_recycler_view">LinearLayout</string>
     <string name="delete_view">deletar</string>
     <string name="more_view">Ver Mais</string>
-    <string name="title_activity_grid_layout">GridLayouty</string>
+    <string name="title_activity_grid_layout">GridLayout</string>
     <string name="title_activity_staggered_grid_layout">StaggeredGridLayoutActivity</string>
 </resources>
