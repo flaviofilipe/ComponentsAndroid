@@ -10,4 +10,5 @@
     <string name="more_view">Ver Mais</string>
     <string name="title_activity_grid_layout">GridLayout</string>
     <string name="title_activity_staggered_grid_layout">StaggeredGridLayoutActivity</string>
+    <string name="title_activity_fragment">Fragment</string>
 </resources>

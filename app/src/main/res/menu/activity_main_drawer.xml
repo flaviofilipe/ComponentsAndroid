@@ -10,6 +10,10 @@
             android:id="@+id/nav_rvGrid"
             android:icon="@drawable/ic_apps_black"
             android:title="RecyclerView Grid" />
+        <item
+            android:id="@+id/nav_fragment"
+            android:icon="@drawable/ic_apps_black"
+            android:title="Fragments" />
     </group>
 
     <!--

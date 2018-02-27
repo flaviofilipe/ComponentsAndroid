@@ -37,6 +37,15 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="br.com.redewsouza.componentsandroid.Activitys.MainActivity" />
         </activity>
+        <activity
+            android:name=".Activitys.FragmentActivity"
+            android:label="@string/title_activity_fragment"
+            android:parentActivityName=".Activitys.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="br.com.redewsouza.componentsandroid.Activitys.MainActivity" />
+        </activity>
     </application>
 
 </manifest>

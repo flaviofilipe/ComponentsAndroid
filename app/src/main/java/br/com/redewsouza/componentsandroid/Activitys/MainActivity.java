@@ -86,6 +86,11 @@ public class MainActivity extends AppCompatActivity
             Intent intent = new Intent(MainActivity.this, GridLayoutActivity.class);
             startActivity(intent);
 
+        }else if (id == R.id.nav_fragment) {
+            //Chama o Fragment
+            Intent intent = new Intent(MainActivity.this, FragmentActivity.class);
+            startActivity(intent);
+
         }
 
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
