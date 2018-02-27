@@ -1,12 +1,12 @@
-package br.com.redewsouza.componentsandroid.Adapters;
+package br.com.flaviofilipe.componentsandroid.Adapters;
 
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.util.Log;
 
-import br.com.redewsouza.componentsandroid.Fragments.TabFrag1;
-import br.com.redewsouza.componentsandroid.Fragments.TabFrag2;
+import br.com.flaviofilipe.componentsandroid.Fragments.TabFrag1;
+import br.com.flaviofilipe.componentsandroid.Fragments.TabFrag2;
 
 /**
  * Created by fx2 on 27/02/18.

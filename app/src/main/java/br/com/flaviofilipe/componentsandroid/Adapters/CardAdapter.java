@@ -1,4 +1,4 @@
-package br.com.redewsouza.componentsandroid.Adapters;
+package br.com.flaviofilipe.componentsandroid.Adapters;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
@@ -9,9 +9,9 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 
-import br.com.redewsouza.componentsandroid.Holder.CardHolder;
-import br.com.redewsouza.componentsandroid.Models.UserModel;
-import br.com.redewsouza.componentsandroid.R;
+import br.com.flaviofilipe.componentsandroid.Holder.CardHolder;
+import br.com.flaviofilipe.componentsandroid.Models.UserModel;
+import br.com.flaviofilipe.componentsandroid.R;
 
 public class CardAdapter extends RecyclerView.Adapter<CardHolder> {
 

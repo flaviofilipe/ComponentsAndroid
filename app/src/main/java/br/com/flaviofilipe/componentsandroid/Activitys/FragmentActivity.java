@@ -1,4 +1,4 @@
-package br.com.redewsouza.componentsandroid.Activitys;
+package br.com.flaviofilipe.componentsandroid.Activitys;
 
 import android.os.Bundle;
 import android.support.v4.view.ViewPager;
@@ -6,8 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.support.design.widget.TabLayout;
 
-import br.com.redewsouza.componentsandroid.Adapters.PagerAdapter;
-import br.com.redewsouza.componentsandroid.R;
+import br.com.flaviofilipe.componentsandroid.Adapters.PagerAdapter;
+import br.com.flaviofilipe.componentsandroid.R;
 
 public class FragmentActivity extends AppCompatActivity {
 

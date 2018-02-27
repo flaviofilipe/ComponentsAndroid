@@ -1,4 +1,4 @@
-package br.com.redewsouza.componentsandroid.Models;
+package br.com.flaviofilipe.componentsandroid.Models;
 
 /**
  * Created by Windows 10 Pro on 04/08/2017.

@@ -1,11 +1,11 @@
-package br.com.redewsouza.componentsandroid.Holder;
+package br.com.flaviofilipe.componentsandroid.Holder;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
-import br.com.redewsouza.componentsandroid.R;
+import br.com.flaviofilipe.componentsandroid.R;
 
 /**
  * Created by Windows 10 Pro on 04/08/2017.

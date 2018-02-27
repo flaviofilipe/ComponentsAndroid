@@ -1,4 +1,4 @@
-package br.com.redewsouza.componentsandroid.Activitys;
+package br.com.flaviofilipe.componentsandroid.Activitys;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -14,7 +14,7 @@ import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
 
-import br.com.redewsouza.componentsandroid.R;
+import br.com.flaviofilipe.componentsandroid.R;
 
 
 /*

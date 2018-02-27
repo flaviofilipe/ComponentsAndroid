@@ -1,4 +1,4 @@
-package br.com.redewsouza.componentsandroid;
+package br.com.flaviofilipe.componentsandroid;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("br.com.redewsouza.componentsandroid", appContext.getPackageName());
+        assertEquals("br.com.flaviofilipe.componentsandroid", appContext.getPackageName());
     }
 }

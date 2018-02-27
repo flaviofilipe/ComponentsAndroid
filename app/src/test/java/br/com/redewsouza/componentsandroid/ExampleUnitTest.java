@@ -1,4 +1,4 @@
-package br.com.redewsouza.componentsandroid;
+package br.com.flaviofilipe.componentsandroid;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package br.com.redewsouza.componentsandroid.Activitys;
+package br.com.flaviofilipe.componentsandroid.Activitys;
 
 import android.os.Bundle;
 import android.support.design.widget.FloatingActionButton;
@@ -11,9 +11,9 @@ import android.view.View;
 
 import java.util.ArrayList;
 
-import br.com.redewsouza.componentsandroid.Adapters.LineAdapter;
-import br.com.redewsouza.componentsandroid.Models.UserModel;
-import br.com.redewsouza.componentsandroid.R;
+import br.com.flaviofilipe.componentsandroid.Adapters.LineAdapter;
+import br.com.flaviofilipe.componentsandroid.Models.UserModel;
+import br.com.flaviofilipe.componentsandroid.R;
 
 public class LinearLayoutActivity extends AppCompatActivity implements View.OnClickListener {
 
